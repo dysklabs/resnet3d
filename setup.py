@@ -8,5 +8,5 @@ setup(name='resnet3d',
       author='Sa chi a jimmy',
       author_email='jimmy15923@example.com',
       license='MIT',
-      packages=['resnet3d'],
+      packages=['resnet3dtest'],
       zip_safe=False)
