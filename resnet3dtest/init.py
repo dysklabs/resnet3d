@@ -1,4 +1,4 @@
 
-Resnet3d init.
+#Resnet3d init.
 
 from .resnet3dtest import Resnet3DBuilder
