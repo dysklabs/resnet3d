@@ -30,7 +30,7 @@ from keras.models import load_model
 from keras.optimizers import Adam, SGD, RMSprop
 from keras.callbacks import ModelCheckpoint, ReduceLROnPlateau, EarlyStopping
 
-from group_norm import GroupNormalization
+
 
 
 def _bn_relu(input):
